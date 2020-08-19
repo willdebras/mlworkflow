@@ -1,0 +1,2 @@
+Mean of squared residuals: 0.349736325701969
+Mean of squared residuals: 0.465376534850202
